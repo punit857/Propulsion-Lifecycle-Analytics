@@ -4,6 +4,8 @@
 This is a real-time, interactive anomaly detection and Remaining Useful Life (RUL) prediction dashboard for aircraft gas turbine engines. 
 Unlike static analytical tools, this system acts as a live sensor simulator. It allows engineers to artificially degrade critical engine components (like compressors and turbines) and instantly see how a trained Deep Learning model interprets those degradations to predict imminent engine failure. The simulation parameters are modeled directly after the NASA C-MAPSS (FD001) turbofan degradation dataset.
 
+**Live Demo:** [Propulsion Health Management System App](https://propulsion-lifecycle-analytics-dhvvufujoqwuyywfd3ctyf.streamlit.app/)
+
 ### Architecture & Tech Stack
 
 * **Frontend & UI:** Streamlit (Deployed on Streamlit Community Cloud)
